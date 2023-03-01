@@ -24,5 +24,6 @@
                 </attribute>
             </itemOperation>
         </itemOperations>
+        <property name="id" identifier="false" writable="false" />
     </resource>
 </resources>
